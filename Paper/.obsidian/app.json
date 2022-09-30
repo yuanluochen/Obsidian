@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "vimMode": true,
+  "livePreview": false,
+  "trashOption": "system",
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./attachment",
+  "newFileLocation": "current",
+  "newFileFolderPath": "笔记",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "communityPluginSortOrder": "download",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "tabSize": 4,
+  "autoPairBrackets": false
+}

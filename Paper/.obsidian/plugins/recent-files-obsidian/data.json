@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "2022-07-17-21-24-56",
+      "path": "笔记/学习笔记/文件预处理/2022-07-17-21-24-56.png"
+    },
+    {
+      "basename": "PID控制算法概述及算法分析",
+      "path": "博客/PID控制算法概述及算法分析/PID控制算法概述及算法分析.md"
+    },
+    {
+      "basename": "定时器",
+      "path": "笔记/学习笔记/定时器/定时器.md"
+    },
+    {
+      "basename": "linux系统基础",
+      "path": "博客/Linux基础/linux系统基础.md"
+    },
+    {
+      "basename": "linux命令基础",
+      "path": "博客/Linux基础/linux命令基础.md"
+    },
+    {
+      "basename": "Linux编程基础",
+      "path": "博客/Linux基础/Linux编程基础.md"
+    },
+    {
+      "basename": "机器人接线",
+      "path": "Task/工程赛/机器人接线.md"
+    },
+    {
+      "basename": "工程赛机器人运行逻辑",
+      "path": "Task/工程赛/工程赛机器人运行逻辑.md"
+    },
+    {
+      "basename": "Github的使用指南",
+      "path": "笔记/学习笔记/git以及github的使用/Github的使用指南.md"
+    },
+    {
+      "basename": "git与github",
+      "path": "笔记/学习笔记/git以及github的使用/git与github.md"
+    },
+    {
+      "basename": "麦克纳姆轮速度分析",
+      "path": "笔记/学习笔记/麦克纳姆轮分析以及应用/麦克纳姆轮速度分析.md"
+    },
+    {
+      "basename": "DMA 直接存储访问",
+      "path": "笔记/学习笔记/DMA 直接存储访问/DMA 直接存储访问.md"
+    },
+    {
+      "basename": "小陀螺",
+      "path": "Excalidraw/小陀螺.md"
+    },
+    {
+      "basename": "理想电流源",
+      "path": "Excalidraw/理想电流源.md"
+    },
+    {
+      "basename": "文件预处理",
+      "path": "笔记/学习笔记/文件预处理/文件预处理.md"
+    },
+    {
+      "basename": "底盘任务",
+      "path": "笔记/学习笔记/DJI官方代码分析/底盘任务.md"
+    },
+    {
+      "basename": "DJI官方代码分析",
+      "path": "笔记/学习笔记/DJI官方代码分析/DJI官方代码分析.md"
+    },
+    {
+      "basename": "云台代码梳理",
+      "path": "笔记/学习笔记/云台/云台代码梳理.md"
+    },
+    {
+      "basename": "陀螺仪姿态角解算",
+      "path": "笔记/学习笔记/云台/陀螺仪姿态角解算.md"
+    },
+    {
+      "basename": "can通信",
+      "path": "笔记/学习笔记/can通信/can通信.md"
+    },
+    {
+      "basename": "底盘任务流程",
+      "path": "Excalidraw/底盘任务流程.md"
+    },
+    {
+      "basename": "工程底盘示意图，及其运动速度分析",
+      "path": "Excalidraw/工程底盘示意图，及其运动速度分析.md"
+    },
+    {
+      "basename": "在Linux系统中，如何让自己编写程序像命令一样存在",
+      "path": "博客/Linux基础/在Linux系统中，如何让自己编写程序像命令一样存在.md"
+    },
+    {
+      "basename": "Linux权限基础",
+      "path": "博客/Linux基础/Linux权限基础.md"
+    },
+    {
+      "basename": "vim编辑文件",
+      "path": "博客/Linux基础/vim编辑文件.png"
+    },
+    {
+      "basename": "在Linux系统中实现高效编程",
+      "path": "博客/Linux基础/在Linux系统中实现高效编程.md"
+    },
+    {
+      "basename": "markdown常用语法",
+      "path": "笔记/学习笔记/markdown常用语法/markdown常用语法.md"
+    },
+    {
+      "basename": "工程赛",
+      "path": "记录/工程赛记录/工程赛.md"
+    },
+    {
+      "basename": "Drawing 2022-09-10 15.26.22.excalidraw",
+      "path": "Excalidraw/Drawing 2022-09-10 15.26.22.excalidraw.md"
+    },
+    {
+      "basename": "现代控制理论",
+      "path": "笔记/学习笔记/现代控制理论/现代控制理论.md"
+    },
+    {
+      "basename": "USART串口协议",
+      "path": "笔记/学习笔记/USART 串口/USART串口协议.md"
+    },
+    {
+      "basename": "什么是程序",
+      "path": "笔记/学习笔记/操作系统/什么是程序.md"
+    },
+    {
+      "basename": "STM32 USART外设",
+      "path": "笔记/学习笔记/USART 串口/STM32 USART外设.md"
+    },
+    {
+      "basename": "I2C总线详解",
+      "path": "Excalidraw/I2C总线详解.md"
+    },
+    {
+      "basename": "硅光电池的浅俗的理解",
+      "path": "笔记/学习笔记/电阻元件的浅俗理解/硅光电池的浅俗的理解.md"
+    },
+    {
+      "basename": "复杂度",
+      "path": "笔记/学习笔记/数据结构/复杂度.md"
+    },
+    {
+      "basename": "NO_ULINK_Devicd_found",
+      "path": "博客/自错百解/NO_ULINK_Devicd_found.md"
+    },
+    {
+      "basename": "Drawing 2022-09-07 18.44.22.excalidraw",
+      "path": "Excalidraw/Drawing 2022-09-07 18.44.22.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-09-04 14.12.09.excalidraw",
+      "path": "Excalidraw/Drawing 2022-09-04 14.12.09.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-09-03 09.00.47.excalidraw",
+      "path": "Excalidraw/Drawing 2022-09-03 09.00.47.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-08-30 16.23.24.excalidraw",
+      "path": "Excalidraw/Drawing 2022-08-30 16.23.24.excalidraw.md"
+    },
+    {
+      "basename": "工程赛路线笔记",
+      "path": "Excalidraw/工程赛路线笔记.md"
+    },
+    {
+      "basename": "理想电压源",
+      "path": "Excalidraw/理想电压源.md"
+    },
+    {
+      "basename": "Drawing 2022-09-04 14.29.23.excalidraw",
+      "path": "Excalidraw/Drawing 2022-09-04 14.29.23.excalidraw.md"
+    },
+    {
+      "basename": "控制工程数学基础导论",
+      "path": "笔记/课程笔记/控制工程数学基础/控制工程数学基础导论.md"
+    },
+    {
+      "basename": "电路基础",
+      "path": "笔记/课程笔记/电路/电路基础.md"
+    },
+    {
+      "basename": "电压源与电流源的串并联",
+      "path": "笔记/课程笔记/电路/电压源与电流源的串并联.md"
+    },
+    {
+      "basename": "静电场",
+      "path": "笔记/课程笔记/大学物理/电磁学/静电场.md"
+    },
+    {
+      "basename": "freertos程序的编写",
+      "path": "笔记/学习笔记/FreeRTOS/freertos程序的编写.md"
+    },
+    {
+      "basename": "任务创建",
+      "path": "笔记/学习笔记/FreeRTOS/任务创建.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

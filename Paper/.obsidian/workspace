@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "9888cef01c5d0cda",
+    "type": "split",
+    "children": [
+      {
+        "id": "167bc6e0abe440dd",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "笔记/学习笔记/文件预处理/2022-07-17-21-24-56.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ec1140351100fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce740cb8dbd1c0f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5496a913ff4a58d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea41805bafb6de38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5bc8d23f36716a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "1731f7482c059623",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f6941ee18394556",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "5a3d9e99f1fbc47a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f980f3da0647a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b39e0262998938f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/学习笔记/文件预处理/2022-07-17-21-24-56.png",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f919785ecedf51ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记/学习笔记/文件预处理/2022-07-17-21-24-56.png",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d10ff6e6a1195944",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "03925b7da5738f9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/学习笔记/文件预处理/2022-07-17-21-24-56.png"
+              }
+            }
+          },
+          {
+            "id": "eac5eb888c679ab4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "active": "e5496a913ff4a58d",
+  "lastOpenFiles": [
+    "博客/PID控制算法概述及算法分析/PID控制算法概述及算法分析.md",
+    "笔记/学习笔记/定时器/定时器.md",
+    "博客/Linux基础/linux系统基础.md",
+    "博客/Linux基础/linux命令基础.md",
+    "博客/Linux基础/Linux编程基础.md",
+    "Task/工程赛/机器人接线.md",
+    "Task/工程赛/工程赛机器人运行逻辑.md",
+    "笔记/学习笔记/git以及github的使用/Github的使用指南.md",
+    "笔记/学习笔记/git以及github的使用/git与github.md",
+    "笔记/学习笔记/麦克纳姆轮分析以及应用/麦克纳姆轮速度分析.md"
+  ]
+}
