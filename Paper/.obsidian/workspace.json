@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "f2eb82d9387a170b",
+    "type": "split",
+    "children": [
+      {
+        "id": "97e089c253a58371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7da4654dbd956bcf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e062850c96e1f37",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b8a64d663bfe152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc60e5992dedf6c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "613b82a8cba1fb26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5110cb118df6d6cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38b238a2d7a6cb71",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b6e4081f80f281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c6feb868b3469e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "笔记/Linux 学习记录/Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Docker 的反向链接列表"
+            }
+          },
+          {
+            "id": "560dfcdbd62f3910",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "笔记/Linux 学习记录/Docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Docker 的出链列表"
+            }
+          },
+          {
+            "id": "b80be89d56632b4c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "48a7292a8d4c35b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "笔记/计算机语言/C语言/C语言文件预处理.md"
+              },
+              "icon": "lucide-list",
+              "title": "C语言文件预处理 的大纲"
+            }
+          },
+          {
+            "id": "62a58c3bbe59b5c2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dbdc54e47a92da19",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "2bb216c703f9af81",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "7da4654dbd956bcf",
+  "lastOpenFiles": [
+    "私人文件/github-recovery-codes.md",
+    "私人文件/密码.md",
+    "笔记/计算机语言/C语言/C语言文件预处理.md",
+    "笔记/计算机语言/C语言/内存.md",
+    "笔记/机器视觉/HikVision相机相关.md",
+    "笔记/STM32/FreeRTOS/freertos程序的编写.md",
+    "笔记/STM32/DMA 直接存储访问/DMA 直接存储访问.md",
+    "笔记/开发工具/google-chrome/google-chrome 无法启动.md",
+    "笔记/开发工具/NVIDIA/驱动安装.md",
+    "参考资料/计算机视觉/QIQI视觉避坑手册.pdf",
+    "笔记/开发工具/GIT/_ 开发者小白的git入门指南.md",
+    "resources/退出按键.png",
+    "resources/电力电子技术笔记.pdf",
+    "resources/图片.png",
+    "resources/zhanjiajie2013-1-1200x229_ae828ad14ca048d791b69a79.png",
+    "resources/vim编辑文件.png",
+    "resources/vim界面.png",
+    "resources/v2-d1b82a298de39ed66088eb21bb89c_a2cab4de40784988b.png",
+    "resources/v2-c96dd18b15beb196b2daba95d26d9_56c805b66cb34fd9b.png",
+    "resources/v2-c405658523c3678cd476ef4ab8d97_40b4913a75614a6fb.jpg",
+    "resources/v2-abed1a8c04700ba7d72b45195223e_af0b548489c0420ea.jpg",
+    "resources/v2-a6a6ec6c34e51c244b32d5c7da337_55df9b41282c43149.jpg",
+    "resources/drawio-{_sketch__false}",
+    "resources/ad0b599b1f2801bff86665a5f83ea7a1",
+    "resources/648164862_ed502d1a4fce4f1da2f64854d76a8ea0.htm",
+    "resources/202304062144186333.xls",
+    "resources/202303311911546044.xls",
+    "resources/202303211927427979.xls",
+    "resources/202204010813592270.xls",
+    "resources/202104020026168148.xls",
+    "笔记/开发工具/GIT/git 配置ssh.md",
+    "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
+    "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
+    "笔记/开发工具/Clangd/Clangd 配置笔记Clangd：teach your editor C++。Clangd 的安装、使用和配置踩坑流程.md",
+    "笔记/计算机语言/markdown常用语法/markdown常用语法.md",
+    "S_考研/考研资料/875自动控制理论相关资料.md",
+    "S_考研/考研资料/长光所历年分数线.md",
+    "参考资料/未命名.md",
+    "计划/寒假学习计划.md",
+    "笔记/开发工具/Editor/neovim 配置.md",
+    "笔记/开发工具/CMake/CMake构建工程.md",
+    "笔记/开发工具/CMake/CMake中cmake_minimum_required的使用_cmake minimum required.md",
+    "笔记/开发工具/Clangd/VSCode Clangd  代码提示出现问题，库函数显示不存在.md",
+    "笔记/控制理论/控制理论实践/_ 基于整体状态估计的辅助瞄准系统设计.md",
+    "笔记/控制理论/控制理论实践/_ PID控制算法概述及算法分析.md",
+    "笔记/控制理论/控制理论实践/_ 自动控制原理课程综合设计.md"
+  ]
+}
