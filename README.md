@@ -1,2 +1,2 @@
 # obsidian
-存放Obsidian笔记的仓库，该仓库用于linux与windows数据同步
+存放Obsidian笔记的仓库
