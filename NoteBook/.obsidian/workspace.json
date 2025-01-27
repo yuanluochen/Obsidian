@@ -11,14 +11,12 @@
             "id": "85f6122e65e98637",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "笔记/嵌入式开发/RM/底盘任务流程.md",
-                "mode": "source",
-                "source": false
+                "file": "参考资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf"
               },
-              "icon": "lucide-file",
-              "title": "底盘任务流程"
+              "icon": "lucide-file-text",
+              "title": "基于运动学建模的自动瞄准系统_宋珣"
             }
           }
         ]
@@ -196,10 +194,21 @@
   },
   "active": "ecb9e4384a1c8965",
   "lastOpenFiles": [
-    "笔记/嵌入式开发/RM/麦克纳姆轮速度分析.md",
-    "笔记/嵌入式开发/RM/陀螺仪姿态角解算.md",
-    "笔记/嵌入式开发/RM/云台代码梳理.md",
-    "笔记/嵌入式开发/RM/DJI官方代码分析.md",
+    "参考资料/计算机视觉/QIQI视觉避坑手册.pdf",
+    "笔记/机器人学/麦克纳姆轮运动学分析/麦克纳姆轮速度分析.md",
+    "笔记/嵌入式开发/陀螺仪/陀螺仪姿态角解算.md",
+    "笔记/机器人学/麦克纳姆轮运动学分析",
+    "笔记/嵌入式开发/陀螺仪",
+    "笔记/机器人学/RM/DJI官方代码分析.md",
+    "笔记/机器人学/RM/云台代码梳理.md",
+    "笔记/机器人学/RM/底盘任务流程.md",
+    "笔记/机器人学",
+    "笔记/机器人学/RM/底盘任务.md",
+    "参考资料/计算机视觉/陈君-毕设 .pdf",
+    "参考资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
+    "计划/寒假学习计划.md",
+    "私人文件/密码.md",
+    "私人文件/github-recovery-codes.md",
     "笔记/控制理论/控制理论实践/_ 自动控制原理课程综合设计.md",
     "笔记/控制理论/控制理论实践/_ kalman-filter-的个人理解.md",
     "笔记/控制理论/控制理论实践/_ PID控制算法概述及算法分析.md",
@@ -210,7 +219,6 @@
     "笔记/控制理论/检测技术/_ 自动检测技术笔记.md",
     "笔记/开发工具/Docker/未命名.md",
     "笔记/嵌入式开发",
-    "未命名",
     "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
     "笔记/计算机科学",
     "笔记/开发工具/Docker/Docker 命令.md",
@@ -223,17 +231,6 @@
     "笔记/开发工具/NVIDIA/驱动安装.md",
     "resources/Pasted image 20250126095641.png",
     "resources/Pasted image 20250126095612.png",
-    "随记/做菜笔记/香菇油菜.md",
-    "随记/做菜笔记",
-    "随记",
-    "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
-    "笔记/计算机科学/计算机语言/CMake/CMake中cmake_minimum_required的使用_cmake minimum required.md",
-    "笔记/开发工具/Editor/neovim.md",
-    "参考资料/计算机视觉/陈君-毕设 .pdf",
-    "参考资料/计算机视觉/陈君-毕设 (1).pdf",
-    "笔记/计算机科学/计算机语言/C语言/C语言文件预处理.md",
-    "笔记/计算机科学/计算机语言/C语言/内存.md",
-    "参考资料/计算机视觉/QIQI视觉避坑手册.pdf",
     "resources/退出按键.png",
     "resources/图片.png",
     "resources/zhanjiajie2013-1-1200x229_ae828ad14ca048d791b69a79.png",
