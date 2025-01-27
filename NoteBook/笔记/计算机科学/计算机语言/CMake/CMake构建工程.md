@@ -102,7 +102,7 @@ ADD_EXECUTABLE(hello test.cpp)
 
 > 每一个目录都要有CMakeLists.txt 说明，且每一个目录下的CMakeList.txt 要有关联
 
-![](../../../resources/Pasted%20image%2020221222212302.png)
+![](../../../../resources/Pasted%20image%2020221222212302.png)
 
 外层CMakeList.txt
 
@@ -190,9 +190,9 @@ ADD_LIBRARY(hello_static STATIC ${LIBHELLO_SRC})
 
 同时构建静态和动态库
 
-![](../../../resources/Pasted%20image%2020221222225231.png)
+![](../../../../resources/Pasted%20image%2020221222225231.png)
 
-![](../../../resources/Pasted%20image%2020221222225416.png)
+![](../../../../resources/Pasted%20image%2020221222225416.png)
 
 库的版本号
 
