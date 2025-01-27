@@ -1,1 +1,0 @@
-+ 创建 /home/yuanluochen/.config/nvim/init.lua

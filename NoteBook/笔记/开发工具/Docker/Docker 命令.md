@@ -92,8 +92,6 @@ docker tag local-image:tagname new-repo:tagname#同名就不用了
 docker push new-repo:tagname#主要是这个
 ```
 
-```
-
 ### Docker 配置问题
 #### vscode 相关 ![](../../../resources/Pasted%20image%2020250113220347.png) vscode有如下报错主要是vscode默认不是用root权限进行使用的，无权访问docker
 

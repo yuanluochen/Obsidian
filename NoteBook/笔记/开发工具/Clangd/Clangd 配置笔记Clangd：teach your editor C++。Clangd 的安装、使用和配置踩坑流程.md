@@ -104,8 +104,3 @@ neovim 的话我装了 nvchad，它的按键绑定设计如此：
 
 ![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ed3322cac33b4a139ef97594c77aeaf7~tplv-k3u1fbpfcp-jj-mark:3024:0:0:0:q75.awebp#?w=602&h=601&s=64448&e=png&b=252931)
 
-习惯这些快捷键可以大大加快开发效率。
-
-本文收录于以下专栏
-
-![cover](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1fbac436217e44f59cd2d1e61e0123f3~tplv-k3u1fbpfcp-jj:100:75:0:0:q75.avis#?w=896&h=561&s=796718&e=png&b=302d28)
