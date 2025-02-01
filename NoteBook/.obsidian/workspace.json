@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "698cbdbbf546d08f",
+        "id": "f97b8c7f08979aa6",
         "type": "tabs",
         "children": [
           {
-            "id": "85f6122e65e98637",
+            "id": "1bb25a3a3ccb12f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "参考资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf"
+                "file": "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "基于运动学建模的自动瞄准系统_宋珣"
+              "icon": "lucide-file",
+              "title": "迭代弹道模型"
             }
           }
         ]
@@ -38,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -134,9 +137,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "迭代弹道模型 的大纲"
             }
           },
           {
@@ -192,10 +200,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ecb9e4384a1c8965",
+  "active": "1bb25a3a3ccb12f5",
   "lastOpenFiles": [
-    "参考资料/计算机视觉/QIQI视觉避坑手册.pdf",
+    "网络页面/RoboMaster OSS.md",
+    "resources/figure_2.png",
+    "resources/figure_1.png",
+    "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
+    "笔记/控制理论/控制理论实践/_ 基于整体状态估计的辅助瞄准系统设计.md",
+    "笔记/控制理论/控制理论实践/_ 自动控制原理课程综合设计.md",
     "笔记/机器人学/麦克纳姆轮运动学分析/麦克纳姆轮速度分析.md",
+    "笔记/机器视觉/HikVision相机相关.md",
+    "笔记/计算机科学/数据结构与算法/时间复杂度计算.md",
+    "笔记/计算机科学/数据结构与算法/空间换时间思路.md",
+    "笔记/开发工具/Terminal/zsh 安装与配置，使用 oh-my-zsh 美化终端  Leehow的小站.md",
+    "resources/202401012307093.png",
+    "resources/202401012304774.png",
+    "resources/202401012302476.png",
+    "resources/202401012259966.png",
+    "resources/202401012254065.png",
+    "resources/202401012252786.png",
+    "resources/202401012250028.png",
+    "resources/202401012242407.png",
+    "笔记/开发工具/Terminal/Ranger.md",
+    "笔记/开发工具/NVIDIA/驱动安装.md",
+    "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
+    "笔记/开发工具/Docker/Docker 命令.md",
+    "网络页面",
+    "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
+    "笔记/机器人学/迭代弹道模型",
+    "笔记/开发工具/google-chrome/google-chrome 无法启动.md",
+    "笔记/开发工具/GIT/git 配置ssh.md",
+    "笔记/开发工具/GIT/_ 开发者小白的git入门指南.md",
+    "笔记/开发工具/Editor/neovim.md",
+    "笔记/开发工具/Docker/未命名.md",
+    "参考资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
+    "参考资料/计算机视觉/QIQI视觉避坑手册.pdf",
     "笔记/嵌入式开发/陀螺仪/陀螺仪姿态角解算.md",
     "笔记/机器人学/麦克纳姆轮运动学分析",
     "笔记/嵌入式开发/陀螺仪",
@@ -205,39 +244,8 @@
     "笔记/机器人学",
     "笔记/机器人学/RM/底盘任务.md",
     "参考资料/计算机视觉/陈君-毕设 .pdf",
-    "参考资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
     "计划/寒假学习计划.md",
-    "私人文件/密码.md",
-    "私人文件/github-recovery-codes.md",
-    "笔记/控制理论/控制理论实践/_ 自动控制原理课程综合设计.md",
-    "笔记/控制理论/控制理论实践/_ kalman-filter-的个人理解.md",
-    "笔记/控制理论/控制理论实践/_ PID控制算法概述及算法分析.md",
-    "笔记/控制理论/控制理论实践/课程设计.md",
-    "笔记/控制理论/控制理论实践/_ 基于整体状态估计的辅助瞄准系统设计.md",
-    "笔记/控制理论/控制理论的学习/_ 现代控制理论.md",
-    "笔记/控制理论/控制理论的学习/_ 控制理论第一讲——控制初识以及通过卷积研究系统的输出响应.md",
-    "笔记/控制理论/检测技术/_ 自动检测技术笔记.md",
-    "笔记/开发工具/Docker/未命名.md",
     "笔记/嵌入式开发",
-    "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
-    "笔记/计算机科学",
-    "笔记/开发工具/Docker/Docker 命令.md",
-    "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
-    "笔记/开发工具/Clangd/VSCode Clangd  代码提示出现问题，库函数显示不存在.md",
-    "笔记/开发工具/Clangd/Clangd 配置笔记Clangd：teach your editor C++。Clangd 的安装、使用和配置踩坑流程.md",
-    "笔记/计算机科学/数据结构与算法/空间换时间思路.md",
-    "笔记/开发工具/obsidian",
-    "参考资料/考研/程序设计与数据结构大纲.pdf",
-    "笔记/开发工具/NVIDIA/驱动安装.md",
-    "resources/Pasted image 20250126095641.png",
-    "resources/Pasted image 20250126095612.png",
-    "resources/退出按键.png",
-    "resources/图片.png",
-    "resources/zhanjiajie2013-1-1200x229_ae828ad14ca048d791b69a79.png",
-    "resources/vim编辑文件.png",
-    "resources/vim界面.png",
-    "resources/v2-d1b82a298de39ed66088eb21bb89c_a2cab4de40784988b.png",
-    "resources/v2-c96dd18b15beb196b2daba95d26d9_56c805b66cb34fd9b.png",
-    "resources/v2-c405658523c3678cd476ef4ab8d97_40b4913a75614a6fb.jpg"
+    "笔记/计算机科学"
   ]
 }

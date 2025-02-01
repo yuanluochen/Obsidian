@@ -3,5 +3,6 @@
   "theme": "system",
   "baseFontSize": 18,
   "translucency": false,
-  "interfaceFontFamily": "微软雅黑"
+  "interfaceFontFamily": "微软雅黑",
+  "showRibbon": true
 }

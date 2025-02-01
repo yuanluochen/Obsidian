@@ -19,6 +19,5 @@
     "downscalePercent": 100
   },
   "tabSize": 4,
-  "autoPairBrackets": false,
-  "showRibbon": true
+  "autoPairBrackets": false
 }
