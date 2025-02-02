@@ -11,10 +11,14 @@
             "id": "13c88f0d7be00244",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "迭代弹道模型"
             }
           }
         ]
