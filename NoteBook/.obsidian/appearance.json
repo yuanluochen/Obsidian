@@ -5,5 +5,9 @@
   "translucency": false,
   "interfaceFontFamily": "微软雅黑",
   "showRibbon": true,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "styles"
+  ],
+  "accentColor": "#c5c6ce"
 }
