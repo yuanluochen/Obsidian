@@ -11,12 +11,14 @@
             "id": "1bb25a3a3ccb12f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "参考资料/考研/程序设计与数据结构大纲.pdf"
+                "file": "参考资料/网络资料/RoboMaster OSS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "程序设计与数据结构大纲"
+              "icon": "lucide-file",
+              "title": "RoboMaster OSS"
             }
           }
         ]
@@ -71,12 +73,23 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "70865f5143e8f696",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db4953725188f1e6",
@@ -87,11 +100,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05518dfade07adac",
+            "id": "88c2ef01d3f3dff7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "参考资料/网络资料/RoboMaster OSS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "RoboMaster OSS 的大纲"
+            }
+          },
+          {
+            "id": "470e01258cda93aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "参考资料/网络资料/RoboMaster OSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,52 +130,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "RoboMaster OSS 的反向链接列表"
             }
           },
           {
-            "id": "9cdbfadc492df9d2",
+            "id": "59e1f00a98b64cf3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "参考资料/网络资料/RoboMaster OSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "RoboMaster OSS 的出链列表"
             }
           },
           {
-            "id": "18374f8c397a9268",
+            "id": "5c647764f21bcae3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
             }
           },
           {
-            "id": "88c2ef01d3f3dff7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "笔记/计算机科学/数据结构与算法/空间换时间思路.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "空间换时间思路 的大纲"
-            }
-          },
-          {
-            "id": "751bf6bef2c28841",
+            "id": "8140e1c58e1cc2cd",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -158,17 +175,13 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          },
-          {
-            "id": "70865f5143e8f696",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "13a02db2880e170b",
+        "type": "tabs",
+        "children": [
           {
             "id": "7165921032b7f79c",
             "type": "leaf",
@@ -179,12 +192,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +207,92 @@
       "obsidian-memos:Thino": false,
       "remotely-save:Remotely Save": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ecb9e4384a1c8965",
+  "floating": {
+    "id": "d9d28e7458440134",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cb0362f86ef3af87",
+        "type": "window",
+        "children": [
+          {
+            "id": "cbecf2b7839a9268",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "66cbdb6325f093dd",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/mgmeyers/obsidian-style-settings",
+                    "title": "GitHub - mgmeyers/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - mgmeyers/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 48,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "1f5e8b34026508a2",
+        "type": "window",
+        "children": [
+          {
+            "id": "76a134bdc62cfa7f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fdfd08e41ebcb520",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://github.com/mgmeyers/obsidian-style-settings",
+                    "title": "GitHub - mgmeyers/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "GitHub - mgmeyers/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 48,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1bb25a3a3ccb12f5",
   "lastOpenFiles": [
+    "笔记/计算机科学/计算机语言/CMake/深入理解CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录.md",
+    "styles.css",
+    "深入.md",
+    "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
+    "笔记/计算机科学/计算机语言/CMake/CMake中cmake_minimum_required的使用_cmake minimum required.md",
+    "笔记/计算机科学/计算机语言/CMake/().md",
+    "笔记/计算机科学/计算机语言/CMake/深入理解.md",
+    "参考资料/考研/程序设计与数据结构大纲.pdf",
     "参考资料/考研/857 自动控制理论.pdf",
     "参考资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
     "参考资料/计算机视觉/QIQI视觉避坑手册.pdf",
@@ -236,15 +329,6 @@
     "笔记/开发工具/GIT/_ 开发者小白的git入门指南.md",
     "笔记/开发工具/Editor/neovim.md",
     "笔记/开发工具/Docker/未命名.md",
-    "笔记/嵌入式开发/陀螺仪/陀螺仪姿态角解算.md",
-    "笔记/机器人学/麦克纳姆轮运动学分析",
-    "笔记/嵌入式开发/陀螺仪",
-    "笔记/机器人学/RM/DJI官方代码分析.md",
-    "笔记/机器人学/RM/云台代码梳理.md",
-    "笔记/机器人学/RM/底盘任务流程.md",
-    "笔记/机器人学",
-    "笔记/机器人学/RM/底盘任务.md",
-    "参考资料/计算机视觉/陈君-毕设 .pdf",
-    "计划/寒假学习计划.md"
+    "笔记/机器人学/麦克纳姆轮运动学分析"
   ]
 }

@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Border",
   "theme": "system",
   "baseFontSize": 18,
   "translucency": false,
   "interfaceFontFamily": "微软雅黑",
-  "showRibbon": true
+  "showRibbon": true,
+  "nativeMenus": true
 }

@@ -195,10 +195,10 @@ ADD_LIBRARY(hello_static STATIC ${LIBHELLO_SRC})
 ![](../../../../resources/Pasted%20image%2020221222225416.png)
 
 库的版本号
-
 ## 使用外部共享库和头文件
-
 在CMakeLists.txt 加入头文件搜索路径
 
+```cmake
 INCLUDE_DIRECTORIES(include_path)
+```
 
