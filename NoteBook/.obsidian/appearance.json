@@ -1,13 +1,15 @@
 {
-  "cssTheme": "Border",
+  "cssTheme": "Minimal",
   "theme": "system",
   "baseFontSize": 18,
   "translucency": false,
-  "interfaceFontFamily": "微软雅黑",
+  "interfaceFontFamily": "微软雅黑,HarmonyOS Sans SC",
   "showRibbon": true,
   "nativeMenus": true,
   "enabledCssSnippets": [
     "styles"
   ],
-  "accentColor": "#c5c6ce"
+  "accentColor": "#6b86ef",
+  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "HarmonyOS Sans SC"
 }

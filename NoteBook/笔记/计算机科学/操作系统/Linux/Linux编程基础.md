@@ -208,13 +208,13 @@ makefile核心构成
 1. 依赖关系
 2. 依赖方法
 
-![makefile详解](../../../../resources/2022-07-15-16-57-18.png)
+![makefile详解](../../../../rescource/Picture/2022-07-15-16-57-18.png)
 
-![未修饰版](../../../../resources/2022-07-15-16-40-43.png)
+![未修饰版](../../../../rescource/Picture/2022-07-15-16-40-43.png)
 
 编写makefile本质上是在编写依赖关系与依赖方法
 
-![makefile](../../../../resources/2022-07-15-21-23-40.png)
+![makefile](../../../../rescource/Picture/2022-07-15-21-23-40.png)
 
 %.o : 表示当前目录下的所有的.c文件
 
@@ -275,7 +275,7 @@ debug生成的程序，在体积上一定大于release
 
 Linux在gcc命令后加 -g选项，直接gdb
 
-![debug](../../../../resources/2022-07-20-12-08-20.png)
+![debug](../../../../rescource/Picture/2022-07-20-12-08-20.png)
 
 选定调试文件gdb + (debug)类型的文件
 

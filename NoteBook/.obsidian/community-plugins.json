@@ -1,11 +1,8 @@
 [
-  "obsidian-markmind",
-  "calendar",
   "obsidian-pandoc",
-  "obsidian-memos",
-  "remotely-save",
   "table-editor-obsidian",
   "obsidian-citation-plugin",
   "execute-code",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin"
 ]

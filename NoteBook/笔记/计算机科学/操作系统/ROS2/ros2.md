@@ -79,11 +79,11 @@ install(TARGRTS
 
 c++版本的ros2节点代码
 
-![](../../../../resources/Pasted%20image%2020221221201935.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221201935.png)
 
 c++ 继承版的ros2节点代码 （建议使用)
 
-![](../../../../resources/Pasted%20image%2020221226192517.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221226192517.png)
 
 初始化与资源释放在程序中的作用  
 1. 前提：构建的程序可能由若干步骤或阶段组成 => 初始化 --> 节点对象--> 日志输出--> 数据发布-->数据定语--> 资源释放
@@ -95,7 +95,7 @@ c++ 继承版的ros2节点代码 （建议使用)
 
 CMakeLists.txt文件
 
-![](../../../../resources/Pasted%20image%2020221221202015.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221202015.png)
 
 #### 配置文件说明
 
@@ -103,7 +103,7 @@ CMakeLists.txt文件
 
 该文件包含包名、版本、作者、依赖项的信息，package.xml 可以为colcon构建工具确定包的编译顺序
 
-![](../../../../resources/Pasted%20image%2020221226193138.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221226193138.png)
 
 1. 根标签
 2. 元信息标签
@@ -111,7 +111,7 @@ CMakeLists.txt文件
 
 ##### CmakeLists.txt
 
-![](../../../../resources/Pasted%20image%2020221226194525.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221226194525.png)
 
 ## ROS2通信机制-话题与服务
 
@@ -138,7 +138,7 @@ rqt_graph
 # 可通过该命令查看节点与节点之间的关系
 ```
 
-![rqt_graph](../../../../resources/Pasted%20image%2020221221194202.png)
+![rqt_graph](../../../../rescource/Picture/Pasted%20image%2020221221194202.png)
 
 talker 发布 chatter话题 被listener订阅
 
@@ -151,7 +151,7 @@ ros2 topic -h
 # 查看topic命令
 ```
 
-![ros2 topic](../../../../resources/Pasted%20image%2020221221194724.png)
+![ros2 topic](../../../../rescource/Picture/Pasted%20image%2020221221194724.png)
 
 ```shell
 ros2 topic list
@@ -163,7 +163,7 @@ ros2 topic list -t
 #增加消息类型
 ```
 
-![](../../../../resources/Pasted%20image%2020221221195105.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221195105.png)
 
 ```shell
 ros2 topic echo topic_name
@@ -175,7 +175,7 @@ ros2 topic info topic_name
 #查看主题信息
 ```
 
-![](../../../../resources/Pasted%20image%2020221221200649.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221200649.png)
 
 publisher count 话题发布者数量
 subscription count 话题订阅者数量 
@@ -185,7 +185,7 @@ ros2 interface show
 # 查看消息接口的具体类型
 ```
 
-![](../../../../resources/Pasted%20image%2020221221201051.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221201051.png)
 
 std_msgs/msg/String为变量名为data的string类型
 
@@ -195,7 +195,7 @@ ros2 topic pub arg
 ```
 
 
-![](../../../../resources/Pasted%20image%2020221221201613.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221201613.png)
 
 ### 订阅话题 --> cpp实现
 
@@ -208,16 +208,16 @@ ros2 topic pub arg
 [rclcpp API查询](https://docs.ros2.org/latest/api/rclcpp/)
 
 获取节点的日志信息
-![](../../../../resources/Pasted%20image%2020221221203635.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221203635.png)
 
 创建一个发布者
-![](../../../../resources/Pasted%20image%2020221221203714.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221203714.png)
 
 创建并返回一个订阅者
-![](../../../../resources/Pasted%20image%2020221221203802.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221203802.png)
 
 创建一个定时器 创建一个客户端
-![](../../../../resources/Pasted%20image%2020221221203959.png)
+![](../../../../rescource/Picture/Pasted%20image%2020221221203959.png)
 
 
 #### 代码实现

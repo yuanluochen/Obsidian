@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "65fd5e4e6faf05a0",
+        "id": "1eeaa94c52e53cc3",
         "type": "tabs",
         "children": [
           {
-            "id": "d6a846b080256ea2",
+            "id": "13c88f0d7be00244",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/计算机科学/计算机语言/CMake/深入理解CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "深入理解CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -75,16 +71,17 @@
             }
           },
           {
-            "id": "70865f5143e8f696",
+            "id": "7165921032b7f79c",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "git-view",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -104,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/计算机科学/计算机语言/CMake/深入理解CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录.md",
+                "file": "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "深入理解CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录 的大纲"
+              "title": "CMake构建工程 的大纲"
             }
           },
           {
@@ -174,127 +171,83 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
-          }
-        ]
-      },
-      {
-        "id": "13a02db2880e170b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7165921032b7f79c",
+            "id": "7240afe1df0e5e11",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 324.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-memos:Thino": false,
-      "remotely-save:Remotely Save": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "obsidian-git:Open Git source control": true,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "d9d28e7458440134",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cb0362f86ef3af87",
-        "type": "window",
-        "children": [
-          {
-            "id": "cbecf2b7839a9268",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "66cbdb6325f093dd",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/mgmeyers/obsidian-style-settings",
-                    "title": "GitHub - mgmeyers/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - mgmeyers/obsidian-style-settings: A dynamic user interface for adjusting theme, plugin, and snippet CSS variables within Obsidian"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 48,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d6a846b080256ea2",
+  "active": "7165921032b7f79c",
   "lastOpenFiles": [
-    "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
-    "笔记/计算机科学/计算机语言/CMake/深入理解CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录.md",
-    "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
-    "参考资料/计算机视觉/陈君-毕设 .pdf",
-    "参考资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
-    "参考资料/网络资料/RoboMaster OSS.md",
-    "styles.css",
-    "深入.md",
-    "笔记/计算机科学/计算机语言/CMake/CMake中cmake_minimum_required的使用_cmake minimum required.md",
-    "笔记/计算机科学/计算机语言/CMake/().md",
-    "笔记/计算机科学/计算机语言/CMake/深入理解.md",
-    "参考资料/考研/程序设计与数据结构大纲.pdf",
-    "参考资料/考研/857 自动控制理论.pdf",
-    "参考资料/计算机视觉/QIQI视觉避坑手册.pdf",
-    "参考资料/计算机视觉/An.introduction.to.CV.and.RoboMaster.Perception.pdf",
-    "笔记/计算机科学/数据结构与算法/空间换时间思路.md",
-    "code_2_1.c",
-    "笔记/计算机科学/数据结构与算法/时间复杂度计算.md",
+    "资料/网络资料/RoboMaster OSS.md",
     "笔记/机器视觉/HikVision相机相关.md",
-    "resources/figure_2.png",
-    "resources/figure_1.png",
-    "笔记/控制理论/控制理论实践/_ 基于整体状态估计的辅助瞄准系统设计.md",
-    "笔记/控制理论/控制理论实践/_ 自动控制原理课程综合设计.md",
+    "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
     "笔记/机器人学/麦克纳姆轮运动学分析/麦克纳姆轮速度分析.md",
-    "笔记/开发工具/Terminal/zsh 安装与配置，使用 oh-my-zsh 美化终端  Leehow的小站.md",
-    "resources/202401012307093.png",
-    "resources/202401012304774.png",
-    "resources/202401012302476.png",
-    "resources/202401012259966.png",
-    "resources/202401012254065.png",
-    "resources/202401012252786.png",
-    "resources/202401012250028.png",
-    "resources/202401012242407.png",
-    "笔记/开发工具/Terminal/Ranger.md",
+    "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
+    "笔记/计算机科学/计算机语言/CMake/CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录的区别.md",
+    "笔记/计算机科学/计算机语言/CMake/CMake中cmake_minimum_required的使用_cmake minimum required.md",
+    "个人/密码.md",
+    "rescource/Excalidraw/Drawing 2025-02-02 21.24.21.excalidraw.md",
+    "rescource/Excalidraw/Drawing 2025-02-02 21.22.30.excalidraw.md",
+    "rescource/Excalidraw/Drawing 2025-02-02 21.22.18.excalidraw.md",
+    "rescource/Excalidraw/Drawing 2025-02-02 21.21.07.excalidraw.md",
+    "rescource/Excalidraw/Drawing 2025-02-02 21.18.02.excalidraw.md",
     "笔记/开发工具/NVIDIA/驱动安装.md",
-    "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
-    "笔记/开发工具/Docker/Docker 命令.md",
-    "参考资料/网络资料",
-    "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
-    "笔记/机器人学/迭代弹道模型",
+    "资料/计算机视觉/An.introduction.to.CV.and.RoboMaster.Perception.pdf",
+    "笔记/嵌入式开发/STM32/DMA 直接存储访问/DMA 直接存储访问.md",
+    "笔记/嵌入式开发/STM32/定时器/定时器.md",
+    "笔记/嵌入式开发/STM32/can通信/can通信.md",
+    "Excalidraw/Drawing 2025-02-02 21.18.54.excalidraw.md",
+    "Excalidraw",
+    "rescource",
+    "rescource/Excalidraw",
+    "资料/计算机视觉/QIQI视觉避坑手册.pdf",
+    "资料/计算机视觉/陈君-毕设 .pdf",
+    "资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
+    "笔记/计算机科学/操作系统/Linux/linux系统基础.md",
+    "笔记/计算机科学/操作系统/ROS2/ros2.md",
+    "笔记/计算机科学/操作系统/ROS2/通信.md",
+    "笔记/计算机科学/计算机语言/C语言/C语言文件预处理.md",
+    "个人/github-recovery-codes.md",
+    "随记/做菜笔记/香菇油菜.md",
     "笔记/开发工具/google-chrome/google-chrome 无法启动.md",
-    "笔记/开发工具/GIT/git 配置ssh.md",
-    "笔记/开发工具/GIT/_ 开发者小白的git入门指南.md",
-    "笔记/开发工具/Editor/neovim.md",
-    "笔记/开发工具/Docker/未命名.md"
+    "笔记/开发工具/Terminal/zsh 安装与配置，使用 oh-my-zsh 美化终端  Leehow的小站.md",
+    "obsidian-iconize/vitest.config.ts",
+    "obsidian-iconize/versions.json",
+    "obsidian-iconize/tsconfig.lib.json",
+    "obsidian-iconize/docs/preview-image.png",
+    "obsidian-iconize/docs/icon-pack-preview.png",
+    "obsidian-iconize/docs/assets/syncing-icon-packs.png",
+    "obsidian-iconize/docs/assets/lucide-native-icon-pack.png",
+    "obsidian-iconize/docs/assets/individual-icon-color.png",
+    "obsidian-iconize/docs/assets/icons-in-notes.png",
+    "obsidian-iconize/docs/assets/icons-in-notes-setting.png",
+    "obsidian-iconize/docs/assets/icon-of-file.png",
+    "obsidian-iconize/docs/assets/icon-in-tabs-settings-option.png",
+    "obsidian-iconize/docs/assets/icon-above-title.png"
   ]
 }

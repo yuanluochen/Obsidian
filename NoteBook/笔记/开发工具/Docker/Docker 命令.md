@@ -32,7 +32,7 @@ Docker 必须部署在linux内核的环境下
 	+ 网站 https://hub.docker.com
 	+ 命令
 		+ docker search [OPTIONS] 镜像名字
-		+ 案例 ![案例](../../../resources/Pasted%20image%2020221009122958.png)
+		+ 案例 ![案例](../../../rescource/Picture/Pasted%20image%2020221009122958.png)
 			+ 参数说明
 				+ NAME 镜像名字
 				+ DESCRIPTION 镜像说明
@@ -85,15 +85,15 @@ docker commit -m="add rm vision code and it can build in this images" -a="yuanlu
 # 目标容器名要求要小写
 ```
 + ==docker image发布到dockerhub==
-首先在dockerhub上创建镜像仓库![](../../../resources/Pasted%20image%2020250117144514.png)
-![](../../../resources/Pasted%20image%2020250117144554.png)镜像名要与仓库名同名
+首先在dockerhub上创建镜像仓库![](../../../rescource/Picture/Pasted%20image%2020250117144514.png)
+![](../../../rescource/Picture/Pasted%20image%2020250117144554.png)镜像名要与仓库名同名
 ```bash
 docker tag local-image:tagname new-repo:tagname#同名就不用了
 docker push new-repo:tagname#主要是这个
 ```
 
 ### Docker 配置问题
-#### vscode 相关 ![](../../../resources/Pasted%20image%2020250113220347.png) vscode有如下报错主要是vscode默认不是用root权限进行使用的，无权访问docker
+#### vscode 相关 ![](../../../rescource/Picture/Pasted%20image%2020250113220347.png) vscode有如下报错主要是vscode默认不是用root权限进行使用的，无权访问docker
 
 ```
 因为你的用户没有足够的权限来访问Docker守护进程的socket文件，这通常需要管理员或具有特定权限的用户来执行Docker操作：
