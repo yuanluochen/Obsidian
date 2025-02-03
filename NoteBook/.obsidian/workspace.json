@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
+                "file": "笔记/开发工具/GIT/开发者小白的git入门指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "迭代弹道模型"
+              "title": "开发者小白的git入门指南"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "db4953725188f1e6",
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
-                "followCursor": false,
+                "file": "笔记/开发工具/GIT/_ 开发者小白的git入门指南.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "CMake构建工程 的大纲"
+              "title": "_ 开发者小白的git入门指南 的大纲"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "参考资料/网络资料/RoboMaster OSS.md",
+                "file": "笔记/计算机科学/操作系统/ROS2/ros2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "RoboMaster OSS 的反向链接列表"
+              "title": "ros2 的反向链接列表"
             }
           },
           {
@@ -190,26 +190,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5,
+    "width": 268.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "templates:插入模板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templates:插入模板": true,
       "obsidian-git:Open Git source control": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "canvas:新建白板": false
     }
   },
   "active": "7165921032b7f79c",
   "lastOpenFiles": [
-    "资料/网络资料/RoboMaster OSS.md",
+    "笔记/开发工具/Editor/neovim.md",
+    "笔记/计算机科学/操作系统/ROS2/ros2.md",
+    "rescource/White Board",
+    "未命名.canvas",
+    "笔记/计算机科学/操作系统/ROS2/未命名.md",
+    "笔记/计算机科学/操作系统/操作系统/什么是程序.md",
     "笔记/机器视觉/HikVision相机相关.md",
     "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
+    "资料/网络资料/RoboMaster OSS.md",
     "笔记/机器人学/麦克纳姆轮运动学分析/麦克纳姆轮速度分析.md",
     "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
     "笔记/计算机科学/计算机语言/CMake/CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录的区别.md",
@@ -233,16 +240,11 @@
     "资料/计算机视觉/陈君-毕设 .pdf",
     "资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
     "笔记/计算机科学/操作系统/Linux/linux系统基础.md",
-    "笔记/计算机科学/操作系统/ROS2/ros2.md",
     "笔记/计算机科学/操作系统/ROS2/通信.md",
     "笔记/计算机科学/计算机语言/C语言/C语言文件预处理.md",
     "个人/github-recovery-codes.md",
-    "随记/做菜笔记/香菇油菜.md",
-    "笔记/开发工具/google-chrome/google-chrome 无法启动.md",
-    "笔记/开发工具/Terminal/zsh 安装与配置，使用 oh-my-zsh 美化终端  Leehow的小站.md",
     "obsidian-iconize/vitest.config.ts",
     "obsidian-iconize/versions.json",
-    "obsidian-iconize/tsconfig.lib.json",
     "obsidian-iconize/docs/preview-image.png",
     "obsidian-iconize/docs/icon-pack-preview.png",
     "obsidian-iconize/docs/assets/syncing-icon-packs.png",

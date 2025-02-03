@@ -1,6 +1,6 @@
 # 节点
 
-## 节点相关的CLI
+## 节点相关的CLIj
 
 - 运行节点 ros2 run package_name executable_name
 - 查看节点列表 ros2 node list

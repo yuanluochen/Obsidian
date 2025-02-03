@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Minimal",
-  "theme": "system",
-  "baseFontSize": 18,
+  "cssTheme": "Things",
+  "theme": "moonstone",
+  "baseFontSize": 16,
   "translucency": false,
   "interfaceFontFamily": "微软雅黑,HarmonyOS Sans SC",
   "showRibbon": true,
@@ -11,5 +11,7 @@
   ],
   "accentColor": "#6b86ef",
   "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "HarmonyOS Sans SC"
+  "textFontFamily": "HarmonyOS Sans SC",
+  "baseFontSizeAction": false,
+  "showViewHeader": true
 }
