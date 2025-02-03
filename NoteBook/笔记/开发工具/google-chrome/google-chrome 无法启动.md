@@ -13,7 +13,7 @@ e - 其他计算机 (anonymous) 的另一个 Google Chrome 进程 (6396) 好像�
 
 ## 解决方案
 
-![](../../../rescource/Picture/Pasted%20image%2020250113224947.png)
+![](../../../rescource/Attachment/Pasted%20image%2020250113224947.png)
 
 ```shell
 cd ~/.config

@@ -10,8 +10,8 @@
     "styles"
   ],
   "accentColor": "#6b86ef",
-  "monospaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "HarmonyOS Sans SC",
+  "monospaceFontFamily": "JetBrains Mono,Source Code Pro",
+  "textFontFamily": "HarmonyOS Sans SC,Times New Roman",
   "baseFontSizeAction": false,
   "showViewHeader": true
 }

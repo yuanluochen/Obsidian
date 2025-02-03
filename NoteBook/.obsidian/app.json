@@ -20,5 +20,6 @@
   },
   "tabSize": 4,
   "autoPairBrackets": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "rightToLeft": false
 }

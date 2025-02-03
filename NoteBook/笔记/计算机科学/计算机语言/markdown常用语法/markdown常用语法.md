@@ -49,10 +49,10 @@ tab缩进
 
 ctrl + alt + v
 
-![年后](../../../../rescource/Picture/2022-06-10-23-35-31.png)
+![年后](../../../../rescource/Attachment/2022-06-10-23-35-31.png)
 *你哈*加标题CTRL + i 一次
 
-![你哈](../../../../rescource/Picture/图片.png)
+![你哈](../../../../rescource/Attachment/图片.png)
 
 ## 表格
 
@@ -81,4 +81,4 @@ alr + shift + f 表格格式化对其
 
 复制链接 选中文字 ctrl + v复制
 
-[链接](https://www.bilibili.com/video/BV1si4y1472o?spm_id_from=666.13.top_right_bar_window_default_collection.content.click&vd_source=fb54463fa9160b349a7111ad9b7afbf8)![](attachment/Pasted%20image%2020221108120738.png)
+[链接](https://www.bilibili.com/video/BV1si4y1472o?spm_id_from=666.13.top_right_bar_window_default_collection.content.click&vd_source=fb54463fa9160b349a7111ad9b7afbf8)

@@ -14,7 +14,7 @@
 
 - 只考虑重力对弹道的影响，理想弹道如下，是一条抛物线。
 
-![](../../rescource/Picture/figure_1.png)
+![](../../rescource/Attachment/figure_1.png)
 
 **现在给定目标位置坐标(x,y)，求解出射角（炮台仰角）。**
 
@@ -25,7 +25,7 @@
 
 首先引入几个概念：
 
-- ![](../../rescource/Picture/figure_2.png)
+- ![](../../rescource/Attachment/figure_2.png)
     
 
 显然，当我们直接瞄准目标点（枪管朝向目标点）时，会有一个下落高度。

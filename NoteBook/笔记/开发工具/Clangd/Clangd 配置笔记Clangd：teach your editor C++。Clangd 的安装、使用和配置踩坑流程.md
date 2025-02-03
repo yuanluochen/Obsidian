@@ -2,7 +2,7 @@
 
 关联问题: Windows下clangd咋配置 clangd卡如何优化 clangd能支持Python吗
 
-> 公欲善其事，必先利其器。（这个真是孔夫子说的）
+> 公欲善其事，必先利其器。（这个真是孔夫子说的）k
 
 读前提醒，这里针对的是 `*unix` 环境，Windows 我没怎么折腾过。
 
@@ -48,7 +48,7 @@ Clangd（读音：刻朗德）是 C 和 C++ 语言对应的 [LSP（Language Serv
 
 ### Type2. 项目有 CMake 构建脚本
 
-如果你的项目是用 CMake 构建的，那么在调用 CMake 的时候加上一个 Flag 就可以了：`cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1`，当然你的 cmake 版本不要太老。
+如果你的项目是用 CMake 构建的，那么在调用 CMake 的时候加上一个 Flag 就可以了：`cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1`，当然你的 cmake 版本不要太老，[CMake构建complie_commmands.json文件方法](obsidian://open?vault=NoteBook&file=%E7%AC%94%E8%AE%B0%2F%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%2FClangd%2FVSCode%20Clangd%20%20%E4%BB%A3%E7%A0%81%E6%8F%90%E7%A4%BA%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%EF%BC%8C%E5%BA%93%E5%87%BD%E6%95%B0%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%AD%98%E5%9C%A8)
 
 ### Type3. 项目是纯 Makefile 的
 

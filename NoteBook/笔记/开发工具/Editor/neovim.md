@@ -1,7 +1,7 @@
 + 创建 /home/yuanluochen/.config/nvim/init.lua
 
 # 键位
-![](../../../rescource/Picture/Pasted%20image%2020250118144019.png)
+![](../../../rescource/Attachment/Pasted%20image%2020250118144019.png)
 
 
 常用

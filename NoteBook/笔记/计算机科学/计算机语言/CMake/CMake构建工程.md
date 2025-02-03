@@ -53,8 +53,8 @@ SET（SRC_LIST main.cpp test.cpp)
 生成可执行文件
 
 ```CMake
-	ADD_EXECUTABLE(hello ${SRC_LIST}) # 生成可执行文件为hello, 源文件读取变量SRC_LIST的内容
-	#也可以直接写为 ADD_EXECUTABLE(hello main.cpp)
+ADD_EXECUTABLE(hello ${SRC_LIST}) # 生成可执行文件为hello, 源文件读取变量SRC_LIST的内容
+								  #也可以直接写为 ADD_EXECUTABLE(hello main.cpp)
 ```
 
 上面的例子可以简化为
@@ -102,7 +102,7 @@ ADD_EXECUTABLE(hello test.cpp)
 
 > 每一个目录都要有CMakeLists.txt 说明，且每一个目录下的CMakeList.txt 要有关联
 
-![](../../../../rescource/Picture/Pasted%20image%2020221222212302.png)
+![](../../../../rescource/Attachment/Pasted%20image%2020221222212302.png)
 
 外层CMakeList.txt
 
@@ -190,12 +190,12 @@ ADD_LIBRARY(hello_static STATIC ${LIBHELLO_SRC})
 
 同时构建静态和动态库
 
-![](../../../../rescource/Picture/Pasted%20image%2020221222225231.png)
+![](../../../../rescource/Attachment/Pasted%20image%2020221222225231.png)
 
-![](../../../../rescource/Picture/Pasted%20image%2020221222225416.png)
+![](../../../../rescource/Attachment/Pasted%20image%2020221222225416.png)
 
 库的版本号
-## 使用外部共享库和头文件
+## [使用外部共享库和头文件](obsidian://open?vault=NoteBook&file=%E7%AC%94%E8%AE%B0%2F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%2F%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%AD%E8%A8%80%2FCMake%2FCMake%E4%B8%AD%E7%9A%84INCLUDE_DIRECTORIES%E4%B8%8Etarget_include_directories_cmake%E5%8C%85%E5%90%AB%E7%9B%AE%E5%BD%95%E7%9A%84%E5%8C%BA%E5%88%AB)
 在CMakeLists.txt 加入头文件搜索路径
 
 ```cmake
