@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 236.5
   },
   "right": {
     "id": "db4953725188f1e6",
@@ -206,7 +206,7 @@
       "canvas:新建白板": false
     }
   },
-  "active": "7165921032b7f79c",
+  "active": "40ac5fdce07eb4f5",
   "lastOpenFiles": [
     "笔记/开发工具/Terminal/Ranger.md",
     "笔记/开发工具/Terminal/Steam Installation.md",
