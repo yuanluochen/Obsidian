@@ -11,14 +11,10 @@
             "id": "40ac5fdce07eb4f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记/控制理论/通过卷积研究系统的输出响应.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "通过卷积研究系统的输出响应"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -41,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "笔记/控制理论/通过卷积研究系统的输出响应.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "通过卷积研究系统的输出响应 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -191,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +200,16 @@
       "canvas:新建白板": false
     }
   },
-  "active": "40ac5fdce07eb4f5",
+  "active": "7165921032b7f79c",
   "lastOpenFiles": [
+    "资料/控制理论/Kalman_Filtering_with_State_Constraints_A_Survey_o.pdf",
+    "资料/计算机视觉/陈君-毕设 .pdf",
+    "资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
+    "笔记/控制理论/通过卷积研究系统的输出响应.md",
     "笔记/开发工具/Terminal/Ranger.md",
     "笔记/开发工具/Terminal/Steam Installation.md",
     "笔记/开发工具/Clangd/Clangd 配置笔记Clangd：teach your editor C++。Clangd 的安装、使用和配置踩坑流程.md",
     "笔记/机器视觉/HikVision相机相关.md",
-    "笔记/控制理论/通过卷积研究系统的输出响应.md",
     "笔记/控制理论/基于整体状态估计的辅助瞄准系统设计.md",
     "笔记/控制理论/未命名看板.md",
     "Tags",
@@ -240,7 +237,6 @@
     "笔记/嵌入式开发/陀螺仪/陀螺仪姿态角解算.md",
     "笔记/计算机科学/计算机语言/markdown常用语法/markdown常用语法.md",
     "笔记/计算机科学/操作系统/操作系统/什么是程序.md",
-    "笔记/控制理论/现代控制理论.md",
     "资料/控制理论/Kalman Filter的个人理解.pdf",
     "资料/控制理论",
     "rescource/Attachment/Pasted image 20230112121821.png",
@@ -252,8 +248,6 @@
     "笔记/控制理论/控制理论实践/kalman filter的个人理解",
     "笔记/控制理论/控制理论实践/卡尔曼滤波",
     "rescource/White Board",
-    "未命名.canvas",
-    "资料/计算机视觉/An.introduction.to.CV.and.RoboMaster.Perception.pdf",
-    "Excalidraw"
+    "未命名.canvas"
   ]
 }

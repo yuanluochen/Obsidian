@@ -19,7 +19,7 @@
     "downscalePercent": 100
   },
   "tabSize": 4,
-  "autoPairBrackets": false,
+  "autoPairBrackets": true,
   "showInlineTitle": true,
   "rightToLeft": false
 }
