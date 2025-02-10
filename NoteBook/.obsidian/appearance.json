@@ -11,7 +11,7 @@
   ],
   "accentColor": "#6b86ef",
   "monospaceFontFamily": "JetBrains Mono,Source Code Pro",
-  "textFontFamily": "HarmonyOS Sans SC,Times New Roman",
+  "textFontFamily": "Times New Roman,HarmonyOS Sans SC",
   "baseFontSizeAction": false,
   "showViewHeader": true
 }
