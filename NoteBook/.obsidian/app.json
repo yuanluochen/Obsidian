@@ -5,7 +5,7 @@
   "livePreview": true,
   "trashOption": "system",
   "strictLineBreaks": true,
-  "attachmentFolderPath": "resources",
+  "attachmentFolderPath": "rescource/Attachment",
   "newFileLocation": "current",
   "newFileFolderPath": "笔记",
   "alwaysUpdateLinks": true,

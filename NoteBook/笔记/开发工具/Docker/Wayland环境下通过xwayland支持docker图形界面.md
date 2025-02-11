@@ -2,7 +2,7 @@
 https://sdutvincirobot.feishu.cn/wiki/KRSMwKmTvivWRskSRszc2vfNnoc?from=from_copylink
 构建容器按如下方式构建--带nvidia驱动
 ```bash
-sudo docker run -dit \
+sudo docker run -Pdit \
 --gpus all \
 --name=contianer_name \
 --privileged \
@@ -19,7 +19,7 @@ sudo docker run -dit \
 --device=/dev/dri/renderD128 \
 --net=host \
 -w /home/yuanluochen \
-#docker_image name
+#docker_image name:tag
 ```
 允许X11访问： 在主机上运行以下命令以允许X11访问：
 

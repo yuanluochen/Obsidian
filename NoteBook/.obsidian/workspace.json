@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ceaf4162370f305",
+        "id": "507fdf12682524d8",
         "type": "tabs",
         "children": [
           {
-            "id": "40ac5fdce07eb4f5",
+            "id": "2c17e933f454bd6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记/计算机科学/操作系统/Linux/Linux权限基础.md",
+                "file": "笔记/开发工具/GIT/开发者小白的git入门指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux权限基础"
+              "title": "开发者小白的git入门指南"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "笔记/计算机科学/操作系统/Linux/Linux权限基础.md",
+                "file": "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux权限基础 的大纲"
+              "title": "在docker中通过X11运行gui程序 的大纲"
             }
           },
           {
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 269.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,52 +207,53 @@
   },
   "active": "7165921032b7f79c",
   "lastOpenFiles": [
-    "笔记/计算机科学/操作系统/Linux/linux命令基础.md",
-    "笔记/计算机科学/操作系统/Linux/Linux编程基础.md",
-    "笔记/开发工具/NVIDIA/驱动安装.md",
+    "笔记/开发工具/GIT/git 配置ssh.md",
+    "笔记/开发工具/GIT/开发者小白的git入门指南.md",
+    "笔记/计算机科学/操作系统/ROS2/通信.md",
+    "笔记/计算机科学/操作系统/Linux/linux系统基础.md",
+    "笔记/计算机科学/操作系统/Linux/Linux权限基础.md",
+    "笔记/计算机科学/操作系统/Linux/linux 图标设置.md",
+    "笔记/计算机科学/操作系统/Linux/在Linux系统中，如何让自己编写程序像命令一样存在.md",
+    "笔记/计算机科学/操作系统/操作系统/什么是程序.md",
+    "笔记/机器视觉/HikVision相机相关.md",
+    "笔记/机器人学/麦克纳姆轮运动学分析/麦克纳姆轮速度分析.md",
+    "笔记/机器人学/迭代弹道模型/迭代弹道模型.md",
+    "笔记/计算机科学/数据结构与算法/空间换时间思路.md",
+    "笔记/计算机科学/数据结构与算法/时间复杂度计算.md",
+    "笔记/计算机科学/操作系统/ROS2/ros2.md",
     "笔记/开发工具/Terminal/zsh 安装与配置，使用 oh-my-zsh 美化终端  Leehow的小站.md",
     "笔记/开发工具/Terminal/Steam Installation.md",
-    "笔记/开发工具/google-chrome/google-chrome 无法启动.md",
-    "笔记/计算机科学/操作系统/Linux/在Linux系统中实现高效编程.md",
-    "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
-    "资料/计算机视觉/QIQI视觉避坑手册.pdf",
-    "笔记/开发工具/Editor/neovim.md",
     "笔记/开发工具/Terminal/Ranger.md",
+    "rescource/Attachment/Pasted image 20250211194150.png",
+    "资料/考研/程序设计与数据结构大纲.pdf",
+    "rescource/Attachment/Pasted image 20250211171509.png",
+    "rescource/Attachment/Pasted image 20250211171204.png",
+    "rescource/Excalidraw/Drawing 2025-02-11 16.46.12.excalidraw.md",
+    "rescource/Excalidraw/Drawing 2025-02-11 15.27.32.excalidraw.md",
+    "rescource/Attachment/Pasted image 20250211160056.png",
+    "rescource/Attachment/Pasted image 20250211160032.png",
+    "未命名.md",
+    "笔记/开发工具/Editor/neovim.md",
+    "笔记/开发工具/Editor/vscode.md",
+    "resources",
+    "笔记/开发工具/NVIDIA/驱动安装.md",
+    "rescource/White Board/未命名.canvas",
+    "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
+    "笔记/开发工具/Docker/Docker 命令.md",
+    "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
+    "资料/计算机视觉/QIQI视觉避坑手册.pdf",
     "资料/计算机视觉/陈君-毕设 .pdf",
     "资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
     "资料/计算机视觉/An.introduction.to.CV.and.RoboMaster.Perception.pdf",
     "资料/控制理论/Kalman_Filtering_with_State_Constraints_A_Survey_o.pdf",
-    "笔记/控制理论/通过卷积研究系统的输出响应.md",
-    "笔记/开发工具/Clangd/Clangd 配置笔记Clangd：teach your editor C++。Clangd 的安装、使用和配置踩坑流程.md",
-    "笔记/机器视觉/HikVision相机相关.md",
-    "笔记/控制理论/基于整体状态估计的辅助瞄准系统设计.md",
-    "笔记/控制理论/未命名看板.md",
     "Tags",
-    "笔记/控制理论/PID控制算法概述及算法分析.md",
-    "笔记/计算机科学/计算机语言/matlab/matlab.md",
-    "笔记/计算机科学/计算机语言/CMake/CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录的区别.md",
-    "笔记/开发工具/GIT/git 配置ssh.md",
-    "笔记/开发工具/GIT/开发者小白的git入门指南.md",
-    "笔记/开发工具/Docker/Docker 命令.md",
-    "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
-    "笔记/开发工具/Clangd/VSCode Clangd  代码提示出现问题，库函数显示不存在.md",
-    "笔记/开发工具/Clangd/().md",
-    "笔记/控制理论/kalman-filter-的个人理解.md",
-    "笔记/控制理论/自动控制原理课程综合设计.md",
     "rescource/Attachment/Pasted image 20230111143542.png",
     "rescource/Attachment/Pasted image 20230108200147.png",
     "rescource/Attachment/Pasted image 20230108184550.png",
     "rescource/Attachment/Pasted image 20230108180141.png",
     "rescource/Attachment/Pasted image 20230108172311.png",
-    "rescource/Attachment/ll 1.png",
     "资料/控制理论/Kalman Filter的个人理解.pdf",
     "资料/控制理论",
-    "rescource/Attachment/Pasted image 20230112121821.png",
-    "rescource/Attachment/Pasted image 20230112110652.png",
-    "rescource/Attachment/Pasted image 20230112110127.png",
-    "rescource/Attachment/Pasted image 20230112110039.png",
-    "rescource/attachment 1",
-    "笔记/控制理论/控制理论实践/kalman filter的个人理解/kalman-filter-的个人理解",
     "未命名.canvas"
   ]
 }
