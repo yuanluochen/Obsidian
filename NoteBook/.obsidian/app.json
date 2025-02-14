@@ -21,5 +21,12 @@
   "tabSize": 4,
   "autoPairBrackets": true,
   "showInlineTitle": true,
-  "rightToLeft": false
+  "rightToLeft": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "rescource/Excalidraw/",
+    "rescource/White Board/",
+    "rescource/Attachment/"
+  ]
 }

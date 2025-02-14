@@ -1,11 +1,4 @@
 这篇文章是关于 Clangd 配置的笔记，涵盖 Clangd 介绍、下载安装方式、找不到头文件的情况及解决办法、获取编译指令的类型和方法、配置方法（包括全局和局部）、代码风格提示、卡顿处理以及快捷按键等内容，主要针对 Unix 环境。
-
-关联问题: Windows下clangd咋配置 clangd卡如何优化 clangd能支持Python吗
-
-> 公欲善其事，必先利其器。（这个真是孔夫子说的）k
-
-读前提醒，这里针对的是 `*unix` 环境，Windows 我没怎么折腾过。
-
 ## 一、什么是 Clangd
 
 Clangd（读音：刻朗德）是 C 和 C++ 语言对应的 [LSP（Language Server Protocal）](https://link.juejin.cn/?target=https%3A%2F%2Fmicrosoft.github.io%2Flanguage-server-protocol%2F "https://microsoft.github.io/language-server-protocol/")Server，它的作用是即时地将代码编译到中间语法树 AST 的方式以提供**实时的**语法检查、智能提示、代码格式化等功能，有了 Clangd，你的编辑器（作为 LSP Client）就像 IDE 一样起飞。

@@ -1,4 +1,4 @@
-+ 创建 .desktop 后缀的图标文件![](../../../../rescource/Attachment/Pasted%20image%2020250211171509.png)
++ 创建 .desktop 后缀的图标文件![](../../../../../rescource/Attachment/Pasted%20image%2020250211171509.png)
 ```bash
 [Desktop Entry]
 Encoding=UTF-8
@@ -15,4 +15,4 @@ Categories=TextEditor;Development;IDE;# 这一行为软件类型
 ```
 # jetbrans 系列创建图标
 
-![](../../../../rescource/Attachment/Pasted%20image%2020250211171204.png)
+![](../../../../../rescource/Attachment/Pasted%20image%2020250211171204.png)
