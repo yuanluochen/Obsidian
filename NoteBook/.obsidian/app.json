@@ -21,7 +21,7 @@
   "tabSize": 4,
   "autoPairBrackets": true,
   "showInlineTitle": true,
-  "rightToLeft": true,
+  "rightToLeft": false,
   "showUnsupportedFiles": true,
   "readableLineLength": false,
   "userIgnoreFilters": [
