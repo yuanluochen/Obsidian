@@ -11,10 +11,14 @@
             "id": "7e41f1c91e1f2ccc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "笔记/开发工具/Clash/Clash-Verge 科学上网.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clash-Verge 科学上网"
             }
           }
         ]
@@ -204,20 +208,24 @@
   },
   "active": "7165921032b7f79c",
   "lastOpenFiles": [
+    "笔记/开发工具/Editor/neovim.md",
+    "笔记/开发工具/Docker/在docker中通过X11运行gui程序.md",
+    "笔记/开发工具/Docker/Docker 命令.md",
+    "笔记/开发工具/Docker/Wayland环境下通过xwayland支持docker图形界面.md",
+    "笔记/开发工具/Clash/Clash-Verge 科学上网.md",
+    "笔记/开发工具/Clangd/VSCode Clangd  代码提示出现问题，库函数显示不存在.md",
+    "笔记/开发工具/Clangd/Clangd 配置笔记Clangd：teach your editor C++。Clangd 的安装、使用和配置踩坑流程.md",
+    "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
     "资料/控制理论/卡尔曼.docx",
     "资料/控制理论/卡尔曼.md",
     "笔记/开发工具/NVIDIA/驱动安装.md",
-    "笔记/开发工具/Clash/Clash-Verge 科学上网.md",
     "笔记/控制理论/kalman-filter-的个人理解.md",
     "笔记/控制理论/现代控制理论.md",
     "笔记/控制理论/自动控制原理课程综合设计.md",
     "笔记/控制理论/通过卷积研究系统的输出响应.md",
     "笔记/嵌入式开发/编译器/ARMCC 编译器/电控keil工程编译器从Armcc5迁移到Armcc6的实现.md",
     "笔记/嵌入式开发/编译器/Arm-gcc 编译器/Arm-none-eabi-gcc 于 fedora linux下安装.md",
-    "笔记/开发工具/Clangd/VSCode Clangd  代码提示出现问题，库函数显示不存在.md",
-    "笔记/开发工具/Clangd/Clangd 配置笔记Clangd：teach your editor C++。Clangd 的安装、使用和配置踩坑流程.md",
     "笔记/计算机科学/计算机语言/CMake/CMake中cmake_minimum_required的使用_cmake minimum required.md",
-    "笔记/计算机科学/计算机语言/CMake/CMake构建工程.md",
     "笔记/计算机科学/计算机语言/CMake/CMake中的INCLUDE_DIRECTORIES与target_include_directories_cmake包含目录的区别.md",
     "笔记/计算机科学/操作系统/ROS2/ros2.md",
     "笔记/计算机科学/操作系统/ROS2/通信.md",
@@ -231,9 +239,6 @@
     "笔记/计算机科学/操作系统/Linux/linux基础/linux命令基础.md",
     "笔记/计算机科学/操作系统/Linux/linux基础/Linux编程基础.md",
     "笔记/计算机科学/操作系统/Linux/linux基础/linux 图标设置.md",
-    "笔记/计算机科学/操作系统/Linux/linux基础/在Linux系统中实现高效编程.md",
-    "笔记/计算机科学/操作系统/Linux/linux基础/在Linux系统中，如何让自己编写程序像命令一样存在.md",
-    "笔记/开发工具/Terminal/Steam Installation.md",
     "rescource/Attachment/Pasted image 20250214141559.png",
     "rescource/Attachment/Pasted image 20250214141536.png",
     "rescource/Attachment/Pasted image 20250214141527.png",
@@ -249,7 +254,6 @@
     "资料/计算机视觉/陈君-毕设 .pdf",
     "资料/计算机视觉/基于运动学建模的自动瞄准系统_宋珣.pdf",
     "资料/计算机视觉/An.introduction.to.CV.and.RoboMaster.Perception.pdf",
-    "资料/计算机视觉/QIQI视觉避坑手册.pdf",
     "rescource/White Board/未命名 2.canvas",
     "rescource/White Board/未命名.canvas",
     "rescource/White Board/未命名 1.canvas",
